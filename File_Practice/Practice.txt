@@ -1,0 +1,4 @@
+Hii Everyone
+we are learninhg file I/O 
+Using Python.
+and i like programing using Python.
